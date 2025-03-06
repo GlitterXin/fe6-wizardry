@@ -1,0 +1,6 @@
+#include "Source/LynJump.event"
+
+#include "Source/StatusGetter.lyn.event"
+
+ItemID:
+	BYTE 0x01	//IronSword
